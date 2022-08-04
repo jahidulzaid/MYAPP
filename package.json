@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jahidulzaid/MYAPP/issues"
   },
-  "homepage": "https://github.com/jahidulzaid/MYAPP#readme"
+  "homepage": "https://github.com/jahidulzaid/MYAPP#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "date-format": "^4.0.13"
+  }
 }
